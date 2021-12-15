@@ -1,0 +1,11 @@
+{
+  "localStorageKey": "grassStore",
+  "type": "grass",
+  "cashback": 0.20,
+  "storeName": "GrassStore",
+  "cartText": "Carrinho",
+  "nextText": "Continuar",
+  "searchPlaceholder": "busque aqui seu produto",
+  "overviewCartText": "Meu Carrinho",
+  "summaryText": "resumo do pedido"
+}

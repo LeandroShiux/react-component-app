@@ -1,0 +1,11 @@
+{
+  "localStorageKey": "dragonStore",
+  "type": "dragon",
+  "cashback": 0.20,
+  "storeName": "DragonStore",
+  "cartText": "Cesta",
+  "nextText": "Próxima Etapa",
+  "searchPlaceholder": "O que você procura?",
+  "overviewCartText": "Minha Cesta",
+  "summaryText": "Resumo da compra"
+}
